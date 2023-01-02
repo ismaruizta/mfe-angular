@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve mfe1 -o --port 3000",
-    "build": "ng build mfe1 --prod",
+    "build": "ng build mfe1",
     "serve": "concurrently \"serve dist/mfe1 -l 3000 -s\" ",
     "test": "ng test",
     "lint": "ng lint",
